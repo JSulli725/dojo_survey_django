@@ -1,0 +1,19 @@
+input.name_input {
+    margin-left: 55px;
+    width: 163px;
+}
+
+select.location_select {
+    margin-left: 35px;
+    width: 172px;
+}
+
+select.language_select {
+    margin-left: 8px;
+    width: 172px;
+}
+
+textarea {
+    width: 303px;
+    height: 110px;
+}
